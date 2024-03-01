@@ -120,7 +120,7 @@ async def next_page(bot, query):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"[{get_size(file.file_size)}] {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('.mkv') and not x.startswith('.MKV') and not x.startswith('mp4') and not x.startswith('CineVood') and not x.startswith('-') and not x.startswith('mp4')and not x.startswith('www.'), file.file_name.split()))}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"[{get_size(file.file_size)}] {' '.join(filter(lambda x: not x.startswith('?') and not x.startswith('@') and not x.startswith('mp4') and not x.startswith('CineVood') and not x.startswith('https://www.1tamilmv.world') and not x.startswith('https://www.1tamilmv.lol') and not x.startswith('https://www.1tamilmv.tax') and not x.startswith('@LK_MOVIES3') and not x.startswith('@Blaster_Originals') and not x.startswith('@MC_4U') and not x.startswith('@MovieRoomOfficial') and not x.startswith('@CineMallu_Linkz') and not x.startswith('@Team_HDT') and not x.startswith('@Knmoviez') and not x.startswith('www.1TamilMV.tax') and not x.startswith('@AAflix') and not x.startswith('@ViewCinemas') and not x.startswith('www.'), file.file_name.split()))}", callback_data=f'{pre}#{file.file_id}'
                 ),
             ]
             for file in files
