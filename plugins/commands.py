@@ -254,7 +254,8 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('🤷‍♂️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤷‍♂️', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('🤷‍♂️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤷‍♂️', url=await get_tutorial(chat_id)),
+                        InlineKeyboardButton('💥 Subscribe To Get File 💥', url='https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')
                     ]
                 ]
             )
@@ -275,7 +276,8 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('🤷‍♂️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤷‍♂️', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('🤷‍♂️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤷‍♂️', url=await get_tutorial(chat_id)),
+                        InlineKeyboardButton('💥 Subscribe To Get File 💥', url='https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')
                     ]
                 ]
             )
@@ -351,7 +353,8 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                         ], [
-                            InlineKeyboardButton('🤷‍♂️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤷‍♂️', url=await get_tutorial(chat_id))
+                            InlineKeyboardButton('🤷‍♂️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🤷‍♂️', url=await get_tutorial(chat_id)),
+                            InlineKeyboardButton('💥 Subscribe To Get File 💥', url='https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')
                         ]
                     ]
                 )
