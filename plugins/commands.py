@@ -86,7 +86,7 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton(f'↻ Tʀʏ Aɢᴀɪɴ', callback_data=f"checksub#{kk}#{file_id}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**👇 join our 🍿 channel given below 👇 after join again ask movie in ur group/bot**",
+            text="**👉 Subscribe my YouTube channel:- https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW And 👇 join our 🍿 channel given below 👇 after join again ask movie in ur group/bot**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode=enums.ParseMode.MARKDOWN
             )
@@ -152,7 +152,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('©️ Copyright', url=f'https://t.me/ROCKERSBACKUP/5')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
                         ]
                        ]
                     )
@@ -168,7 +168,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('©️ Copyright', url=f'https://t.me/ROCKERSBACKUP/5')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
                         ]
                        ]
                     )
@@ -322,7 +322,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('©️ Copyright', url=f'https://t.me/ROCKERSBACKUP/5')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
                         ]
                        ]
                     )
@@ -381,7 +381,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('©️ Copyright', url=f'https://t.me/ROCKERSBACKUP/5')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
                         ]
                        ]
                     )
@@ -438,7 +438,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('©️ Copyright', url=f'https://t.me/ROCKERSBACKUP/5')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
                         ]
                        ]
                     )
