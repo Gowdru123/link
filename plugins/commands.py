@@ -74,6 +74,9 @@ async def start(client, message):
             [
                 InlineKeyboardButton(
                     "❆ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link
+                ),
+                InlineKeyboardButton(
+                    "🔞 Jᴏɪɴ adult Cʜᴀɴɴᴇʟ 🔞", url=f'https://t.me/+y4Yfxe221o5iZjQ9'
                 )
             ]
         ]
@@ -152,7 +155,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW'),
+                          InlineKeyboardButton('💥 join  To Watch 💥', url=f'https://t.me/+y4Yfxe221o5iZjQ9')
                         ]
                        ]
                     )
@@ -168,7 +172,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW'),
+                          InlineKeyboardButton('💥 join  To Watch 💥', url=f'https://t.me/+y4Yfxe221o5iZjQ9')
                         ]
                        ]
                     )
@@ -324,7 +329,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW'),
+                          InlineKeyboardButton('💥 join  To Watch 💥', url=f'https://t.me/+y4Yfxe221o5iZjQ9')
                         ]
                        ]
                     )
@@ -384,7 +390,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW'),
+                          InlineKeyboardButton('💥 join  To Watch 💥', url=f'https://t.me/+y4Yfxe221o5iZjQ9')
                         ]
                        ]
                     )
@@ -441,7 +448,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW')                         
+                          InlineKeyboardButton('💥 Subscribe To Watch 💥', url=f'https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW'),
+                          InlineKeyboardButton('💥 join  To Watch 💥', url=f'https://t.me/+y4Yfxe221o5iZjQ9')
                         ]
                        ]
                     )
